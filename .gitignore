@@ -1,0 +1,20 @@
+# Arquivos compilados pelo Free Pascal
+*.o
+*.ppu
+*.exe
+*.a
+*.so
+*.dll
+*.dcu
+
+# Backups e arquivos temporários
+*.bak
+*.~*
+*~
+
+# Diretórios comuns de build ou cache
+lib/
+tmp/
+bin/
+build/
+output/
